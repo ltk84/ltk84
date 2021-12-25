@@ -20,12 +20,8 @@ I am particularly interested in aesthetics. That's why I'm focusing on **user in
 
 Besides that, I'm also learning **human resource development** and **project management**. This can be my main focus in the future.
 
-<br/>
-
 # 🎯 Main Focus
 I'm current focus on Mobile Development with **Flutter** (Dart language).
-
-<br/>
 
 # 🤹 Skills
 ## Technology
@@ -55,8 +51,6 @@ I'm current focus on Mobile Development with **Flutter** (Dart language).
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23215781.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23f17707.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2333abfb.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-<br/>
 
 # 🍀 IT's Zoo
 This is a group of students at the [*University of Information Technology, VNU-HCM*](https://www.uit.edu.vn), of which I am a member.
@@ -101,8 +95,6 @@ This group has 4 members including me and:
     He's such a good front-end developer. He is an aesthetic person with a creative brain.
 
 If you're interested, please visit their profile for more.
-
-<br/>
 
 # 📨 Contact
 
