@@ -18,7 +18,7 @@ My name is **Trương Kim Lâm** (you can call me **Lam Truong**) and I'm a **so
 ## More about me 🐧
 I am particularly interested in aesthetics. That's why I'm focusing on **user interface** design and development. And with it, is the field of **user experience**, which is indispensable. I have the ability to design, evaluate, and develop user interfaces so that the product can be truly aesthetic as well as meet the requirements from analysis, design, and evaluation.
 
-Besides that, I also learning **human resource development** and **project management**. This can be my main focus in the future.
+Besides that, I'm also learning **human resource development** and **project management**. This can be my main focus in the future.
 
 <br/>
 
