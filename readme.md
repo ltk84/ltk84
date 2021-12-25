@@ -22,7 +22,7 @@ Besides that, I also learning **human resource development** and **project manag
 
 <br/>
 
-# 🎯 Main focus
+# 🎯 Main Focus
 I'm current focus on Mobile Development with **Flutter** (Dart language).
 
 <br/>
@@ -102,5 +102,29 @@ This group has 4 members including me and:
 
 If you're interested, please visit their profile for more.
 
+<br/>
+
+# 📨 Contact
+
+
+<p align="center">
+    <a href="mailto:lamtk.843@gmail.com">
+        <img src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="ContactByEmail" height="32" width="32">
+    </a> 
+    <a href="https://www.m.me/kiaconbuomvangaaa">
+        <img src="https://www.svgrepo.com/show/349451/messenger.svg" alt="ContactByMessenger" height="32" width="32">
+    </a>
+</p>
+<p align="center">
+    Please feel free to contact me.
+</p>
+
+# 📊 GitHub Statistics
+
+![ltk84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltk84)
+
+![](https://komarev.com/ghpvc/?username=ltk84&style=flat)
+
 #
 <p align="center"><i>"Be optimistic and positive."</i></p>
+
