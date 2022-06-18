@@ -18,10 +18,9 @@ My name is **Trương Kim Lâm** (you can call me **Lam Truong**) and I'm a **so
 ## More about me 🐧
 I am particularly interested in aesthetics. That's why I'm focusing on **user interface** design and development. And with it, is the field of **user experience**, which is indispensable. I have the ability to design, evaluate, and develop user interfaces so that the product can be truly aesthetic as well as meet the requirements from analysis, design, and evaluation.
 
-Besides that, I'm also learning **human resource development** and **project management**. This can be my main focus in the future.
 
 # 🎯 Main Focus
-I'm current focus on Mobile Development with **Flutter** (Dart language).
+I'm current focus on Mobile Development.
 
 # 🤹 Skills
 ## Technology
@@ -36,7 +35,7 @@ I'm current focus on Mobile Development with **Flutter** (Dart language).
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -44,8 +43,9 @@ I'm current focus on Mobile Development with **Flutter** (Dart language).
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23207ef6.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/clickup-%237c4cfc.svg?&style=for-the-badge&logo=clickup&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/clickup-%237c4cfc.svg?&style=for-the-badge&logo=clickup&logoColor=white)
+![Notion](https://img.shields.io/badge/figma-%ffffffff.svg?style=for-the-badge&logo=figma&logoColor=black)
 
 ### Others
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23215781.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
