@@ -43,10 +43,9 @@ I'm current focus on Mobile Development.
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23207ef6.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/clickup-%237c4cfc.svg?&style=for-the-badge&logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/clickup-%237c4cfc.svg?&style=for-the-badge&logo=clickup&logoColor=white)
-![Notion](https://img.shields.io/badge/figma-%ffffffff.svg?style=for-the-badge&logo=figma&logoColor=black)
-
+![Notion](https://img.shields.io/badge/notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black)
 ### Others
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23215781.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23f17707.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
