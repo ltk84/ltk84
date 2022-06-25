@@ -16,7 +16,7 @@ My name is **Trương Kim Lâm** (you can call me **Lam Truong**) and I'm a **so
 * Sports 🏀
 
 ## More about me 🐧
-I am particularly interested in aesthetics. That's why I'm focusing on **user interface** design and development. And with it, is the field of **user experience**, which is indispensable. I have the ability to design, evaluate, and develop user interfaces so that the product can be truly aesthetic as well as meet the requirements from analysis, design, and evaluation.
+I am particularly interested in aesthetics. That means I am truly perfectionist in ensuring the aesthetics of the products that I make.
 
 
 # 🎯 Main Focus
@@ -26,19 +26,19 @@ I'm current focus on Mobile Development.
 ## Technology
 
 ### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%239c4b94.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%239c4b94.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -66,7 +66,7 @@ This group has 4 members including me and:
 *Mobile Developer*
 
 
-    He's really good at the backend, architecture, algorithms,... As far as I know, he's a smart and careful person. He can also learn very quickly.
+    He's really good at architecture and algorithms. As far as I know, he's a smart and careful person. He can also learn very quickly.
 
 <br/>
 
