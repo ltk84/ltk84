@@ -78,7 +78,7 @@ This group has 4 members including me and:
 
 *Mobile Developer*
 
-    He's a brilliant back-end developer. He usually comes up with lots of impressive ideas to solve problems.
+    He's a brilliant developer. He usually comes up with lots of impressive ideas to solve problems.
 
 <br/>
 
