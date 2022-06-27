@@ -16,7 +16,7 @@ My name is **Trương Kim Lâm** (you can call me **Lam Truong**) and I'm a **so
 * Sports 🏀
 
 ## More about me 🐧
-I am particularly interested in aesthetics. That means I am truly perfectionist in ensuring the aesthetics of the products that I make.
+I am particularly interested in aesthetics. That means I am truly a perfectionist in ensuring the aesthetics of the products that I make.
 
 
 # 🎯 Main Focus
